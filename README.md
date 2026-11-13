@@ -40,6 +40,10 @@ Arduino UNO와 HC-SR04 초음파 센서, 피에조 부저를 활용한 거리 �
 
 BCTO90(DS20090) Bluetooth LE 컨트롤러를 PC에서 사용할 수 있도록 연결·제어하는 프로젝트입니다. Python과 serial 통신을 활용해 실제 장치와 소프트웨어를 연결합니다.
 
+### [DEEPSKY](https://github.com/bokseong/DEEPSKY)
+
+천문 동아리 활동을 위한 홈페이지 프로젝트입니다. 동아리의 천문 관측·과학 활동과 관련된 내용을 웹으로 정리하고 공유합니다.
+
 ---
 
 ## Organization
