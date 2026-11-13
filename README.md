@@ -1,6 +1,6 @@
 # jw-astro09
 
-**Suncheon Bokseong High School** (순천복성고등학교)  
+**Student at Suncheon Bokseong High School** (순천복성고등학교)  
 Interested in **Aerospace**, **Astronomy**, and **Vibe Coding**.
 
 ---
