@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 jw-astro09입니다 👋
+# 안녕하세요, 저는 jw-astro09입니다
 
 > **천문을 관측하고, 데이터를 다루고, 전자 장치를 만들며, 바이브 코딩으로 아이디어를 실제 도구로 바꾸는 학생입니다.**
 
@@ -7,14 +7,14 @@
 
 ---
 
-## 🛰️ About Me
+## About Me
 
-- 🔭 **Astronomy** — 천체 관측과 우주과학에 관심이 있습니다.
-- 📊 **Data Processing** — 관측 데이터와 실험 결과를 코드로 정리하고 시각화합니다.
-- ⚡ **Electronics** — Arduino와 센서를 사용해 실제로 동작하는 장치를 만듭니다.
-- 🌐 **Web & Tools** — 아이디어를 웹 도구와 작은 프로그램으로 구현합니다.
-- ✨ **Vibe Coding** — 자연어로 아이디어를 구체화하고, 빠르게 프로토타입을 만들며, 실행 결과를 보면서 코드를 발전시킵니다.
-- 🌏 **Translation** — 영어 자료를 한국어로 옮기며 기술 지식을 정리합니다.
+- **Astronomy** — 천체 관측과 우주과학에 관심이 있습니다.
+- **Data Processing** — 관측 데이터와 실험 결과를 코드로 정리하고 시각화합니다.
+- **Electronics** — Arduino와 센서를 사용해 실제로 동작하는 장치를 만듭니다.
+- **Web & Tools** — 아이디어를 웹 도구와 작은 프로그램으로 구현합니다.
+- **Vibe Coding** — 자연어로 아이디어를 구체화하고, 빠르게 프로토타입을 만들며, 실행 결과를 보면서 코드를 발전시킵니다.
+- **Translation** — 영어 자료를 한국어로 옮기며 기술 지식을 정리합니다.
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [arduino-code](https://github.com/jw-astro09/arduino-code)
 
@@ -42,7 +42,7 @@ Git과 GitHub의 fork → branch → commit → pull request 흐름을 익히며
 
 ---
 
-## 🌌 Current Direction
+## Current Direction
 
 **관측하고 → 기록하고 → 코드로 분석하고 → 직접 쓸 수 있는 도구로 만드는 것**
 
@@ -50,7 +50,7 @@ Git과 GitHub의 fork → branch → commit → pull request 흐름을 익히며
 
 ---
 
-## 📫 Connect
+## Connect
 
 - GitHub: [@jw-astro09](https://github.com/jw-astro09)
 - Email: [2jw5464@gmail.com](mailto:2jw5464@gmail.com)
@@ -58,4 +58,4 @@ Git과 GitHub의 fork → branch → commit → pull request 흐름을 익히며
 
 ---
 
-<sub>Built with curiosity, observation, and a little bit of ✨ Vibe Coding.</sub>
+<sub>Built with curiosity, observation, and a little bit of Vibe Coding.</sub>
