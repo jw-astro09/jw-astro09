@@ -1,16 +1,17 @@
-## Hi there 👋
+# jw-astro09
 
-<!--
-**jw-astro09/jw-astro09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Suncheon Bokseong High School** (순천복성고등학교)  
+Interested in **Aerospace**, **Astronomy**, and **Vibe Coding**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+* **Aerospace & Astronomy:** Exploring space engineering, orbital mechanics, and celestial observation.
+* **Development:** Building rapid prototypes and creative tools through Vibe Coding.
+
+---
+
+### Contact
+* **GitHub:** [github.com/jw-astro09](https://github.com/jw-astro09)
+* **Email:** [2jw5464@gmail.com](mailto:2jw5464@gmail.com)
+* **Instagram / Blog:** [instargram]([https://example.com](https://www.instagram.com/astro_photo.123?stkn=azJsb2l2aWRhYjFh))
