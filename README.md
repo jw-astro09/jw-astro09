@@ -48,6 +48,10 @@ BCTO90(DS20090) Bluetooth LE 컨트롤러를 PC에서 사용할 수 있도록 �
 
 제가 만든 개인 organization으로, 하드웨어 제어·게임·실험용 도구처럼 직접 만들고 검증하는 프로젝트를 모아 관리합니다. 아이디어를 빠르게 구현하고, 실행 결과를 바탕으로 개선하는 **바이브 코딩 작업 공간**입니다.
 
+### [Suncheon Bokseong High School](https://github.com/bokseong)
+
+순천복성고등학교와 관련된 프로젝트를 모아 관리하는 organization입니다. 그 안에서 천문·과학·학교 활동과 연결된 작업을 진행하고 있으며, 대표적으로 천문 동아리 홈페이지인 [DEEPSKY](https://github.com/bokseong/DEEPSKY)를 운영하고 있습니다.
+
 ---
 
 ## Current Direction
