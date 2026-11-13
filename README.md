@@ -36,9 +36,17 @@
 Arduino UNO와 HC-SR04 초음파 센서, 피에조 부저를 활용한 거리 감지 프로젝트입니다.  
 회로 연결, 핀 구성, 측정 결과, 문제 해결 과정을 문서화했습니다.
 
-### [first-contributions](https://github.com/jw-astro09/first-contributions)
+### [unofficial-BCTO90-PC-controller](https://github.com/personal-coding-lab/unofficial-BCTO90-PC-controller)
 
-Git과 GitHub의 fork → branch → commit → pull request 흐름을 익히며 오픈소스 협업을 경험한 저장소입니다.
+BCTO90(DS20090) Bluetooth LE 컨트롤러를 PC에서 사용할 수 있도록 연결·제어하는 프로젝트입니다. Python과 serial 통신을 활용해 실제 장치와 소프트웨어를 연결합니다.
+
+---
+
+## Organization
+
+### [personal-coding-lab](https://github.com/personal-coding-lab)
+
+제가 만든 개인 organization으로, 하드웨어 제어·게임·실험용 도구처럼 직접 만들고 검증하는 프로젝트를 모아 관리합니다. 아이디어를 빠르게 구현하고, 실행 결과를 바탕으로 개선하는 **바이브 코딩 작업 공간**입니다.
 
 ---
 
