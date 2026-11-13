@@ -31,11 +31,6 @@
 
 ## Featured Projects
 
-### [arduino-code](https://github.com/jw-astro09/arduino-code)
-
-Arduino UNO와 HC-SR04 초음파 센서, 피에조 부저를 활용한 거리 감지 프로젝트입니다.  
-회로 연결, 핀 구성, 측정 결과, 문제 해결 과정을 문서화했습니다.
-
 ### [unofficial-BCTO90-PC-controller](https://github.com/personal-coding-lab/unofficial-BCTO90-PC-controller)
 
 BCTO90(DS20090) Bluetooth LE 컨트롤러를 PC에서 사용할 수 있도록 연결·제어하는 프로젝트입니다. Python과 serial 통신을 활용해 실제 장치와 소프트웨어를 연결합니다.
