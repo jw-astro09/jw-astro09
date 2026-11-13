@@ -14,4 +14,4 @@ Interested in **Aerospace**, **Astronomy**, and **Vibe Coding**.
 ### Contact
 * **GitHub:** [github.com/jw-astro09](https://github.com/jw-astro09)
 * **Email:** [2jw5464@gmail.com](mailto:2jw5464@gmail.com)
-* **Instagram / Blog:** [instargram]([https://example.com](https://www.instagram.com/astro_photo.123?stkn=azJsb2l2aWRhYjFh))
+* **Instagram / Blog:** [instargram](https://www.instagram.com/astro_photo.123?stkn=azJsb2l2aWRhYjFh)
