@@ -8,6 +8,7 @@ Interested in **Aerospace**, **Astronomy**, and **Vibe Coding**.
 ### Focus
 * **Aerospace & Astronomy:** Exploring space engineering, orbital mechanics, and celestial observation.
 * **Development:** Building rapid prototypes and creative tools through Vibe Coding.
+* **Translation:** Translate from English to Korean
 
 ---
 
